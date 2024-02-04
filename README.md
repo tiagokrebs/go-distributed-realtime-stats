@@ -1,5 +1,7 @@
 # Distributed Realtime Stats API
 
+![Alt](arch.png)
+
 ```
 go run main.go
 ```
